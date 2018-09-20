@@ -1,0 +1,9 @@
+<project name="SALES_TAXES" basedir="." default="clean">
+
+	<property name="build.dir" value="build" />
+
+	<target name="clean">
+		<delete dir="${build.dir}" />
+	</target>
+
+</project>

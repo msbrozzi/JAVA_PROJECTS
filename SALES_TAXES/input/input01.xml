@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product basicTaxes="false" importTaxes="false" >
+		<name>book</name>
+		<quantity>1</quantity>
+		<price>12.49</price>
+	</product>
+	<product basicTaxes="true" importTaxes="false" >
+		<name>music CD</name>
+		<quantity>1</quantity>
+		<price>14.99</price>
+	</product>
+	<product basicTaxes="false" importTaxes="false" >
+		<name>chocolate bar</name>
+		<quantity>1</quantity>
+		<price>0.85</price>
+	</product>
+</products>

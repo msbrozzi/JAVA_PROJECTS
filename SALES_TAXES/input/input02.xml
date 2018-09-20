@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product basicTaxes="false" importTaxes="true" >
+		<name>box of chocolates</name>
+		<quantity>1</quantity>
+		<price>10.00</price>
+	</product>
+	<product basicTaxes="true" importTaxes="true" >
+		<name>imported bottle of perfume</name>
+		<quantity>1</quantity>
+		<price>47.50</price>
+	</product>
+</products>

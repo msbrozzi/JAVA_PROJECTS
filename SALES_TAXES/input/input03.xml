@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product basicTaxes="true" importTaxes="true" >
+		<name>imported bottle of perfume</name>
+		<quantity>1</quantity>
+		<price>27.99</price>
+	</product>
+	<product basicTaxes="true" importTaxes="false" >
+		<name>bottle of perfume</name>
+		<quantity>1</quantity>
+		<price>18.99</price>
+	</product>
+	<product basicTaxes="false" importTaxes="false" >
+		<name>packet of headache pills</name>
+		<quantity>1</quantity>
+		<price>9.75</price>
+	</product>
+	<product basicTaxes="false" importTaxes="true" >
+		<name>box of imported chocolates</name>
+		<quantity>1</quantity>
+		<price>11.25</price>
+	</product>
+</products>
